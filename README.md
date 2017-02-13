@@ -5,6 +5,7 @@ A collection of awesome static hosting providers and related resources.
 ## Free hosts
 - **GitHub** : (web: [github.com](https://github.com))
 - **GitLab** : (web: [gitlab.com](https://gitlab.com))
+- **Neocities** : (web: [neocities.org](https://neocities.org))
 
 ## Commercial hosts
 - **S3** : (web: [aws.amazon.com/s3](http://aws.amazon.com/s3/))
