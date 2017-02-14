@@ -1,5 +1,6 @@
 # Awesome Static Hosting Providers 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A collection of awesome static hosting providers and related resources.
 
 ## Free hosts
@@ -23,3 +24,4 @@ A collection of awesome static hosting providers and related resources.
 - [How to automatically deploy static web site to the hosting](http://vrepin.org/vr/JekyllDeploy)  by Vitaly Repin; Jul 2015
 - [Deploy Jekyll sites to S3 using Travis CI](http://cloudcannon.com/tutorial/2016/01/21/deploy-jekyll-sites-to-s3-using-travis-ci/)
 - [Deploy Jekyll sites anywhere using jekyll-hook](http://cloudcannon.com/tutorial/2016/01/26/deploy-jekyll-sites-anywhere-with-jekyll-hook/)
+- [Hosting on GitLab.com with GitLab Pages](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)
