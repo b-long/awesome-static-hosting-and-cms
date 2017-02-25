@@ -9,6 +9,7 @@ A collection of awesome static hosting providers and related resources.
 - **Neocities** : (web: [neocities.org](https://neocities.org))
 
 ## Commercial hosts
+- **Aerobatic** : (web: [aerobatic.com](http://www.aerobatic.com))
 - **S3** : (web: [aws.amazon.com/s3](http://aws.amazon.com/s3/))
 - **BowTie** (web: [bowtie.io](https://bowtie.io)) by Chad Person, James Kassemi, Scott Maloney et al.
 - **Divshot** : (web: [divshot.com](https://divshot.com/))
