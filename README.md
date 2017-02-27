@@ -23,7 +23,7 @@ We don't want to repeat that content, _go read the original!_
 ## Content Management Systems (CMS)
 - **Contentful** : (web: [contentful.com](https://www.contentful.com/features/)) - Enterprise-grade content editing for anything (more than just static sites)
 - **Forestry** (web: [forestry.io](https://forestry.io)) - A CMS for Jekyll and Hugo sites. Host anywhere (GitHub Pages, Amazon S3, FTP, etc) and access your static CMS from `site.com/admin/`.
-- **Netlify** : (web: [netlify.com](https://www.netlify.com/))
+- **Netlify** : (web: [netlify.com](https://www.netlify.com/)) - An open source, and commercially supported, CMS for Static Site Generators.  Developed on GitHub: https://github.com/netlify/netlify-cms
 - **Prose** : (web: [prose.io](http://prose.io/)) - An open source CMS for GitHub pages.  Developed on GitHub: https://github.com/prose/prose
 - **Siteleaf** : (web: [siteleaf.com](http://www.siteleaf.com/)) - Online editor content manager that allows you to publish anywhere, including Github Pages, and it has Jekyll support.
 - **Surreal CMS** : (web: [surrealcms.com](http://www.surrealcms.com/)) - Hosted CMS for static sites over FTP or Amazon S3.
