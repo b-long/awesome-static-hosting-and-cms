@@ -1,7 +1,7 @@
-# Awesome Static Hosting Providers 
+# Awesome Static Hosting and CMS
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome static hosting providers and related resources.
+A collection of awesome static hosting providers, content management systems, and curated articles.
 
 ## Free hosts
 - **GitHub** : (web: [github.com](https://github.com))
