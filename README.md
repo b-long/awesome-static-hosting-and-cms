@@ -34,3 +34,4 @@ We don't want to repeat that content, _go read the original!_
 - [Deploy Jekyll sites anywhere using jekyll-hook](http://cloudcannon.com/tutorial/2016/01/26/deploy-jekyll-sites-anywhere-with-jekyll-hook/)
 - [Hosting on GitLab.com with GitLab Pages](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)
 - [How to automatically deploy static web site to the hosting](http://vrepin.org/vr/JekyllDeploy)  by Vitaly Repin; Jul 2015
+- [How to password protect a Jekyll Site](https://www.aerobatic.com/blog/password-protect-a-jekyll-site/)
