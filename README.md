@@ -3,6 +3,12 @@
 
 A collection of awesome static hosting providers, content management systems, and curated articles.
 
+## Inspiration
+
+Most importantly, this list wouldn't exist without the excellent work that's been done to create the [**Awesome Static Website Services**](https://github.com/aharris88/awesome-static-website-services) list.  Adam has curated some of the best resources, across a wide range, to help people develop their sites. 
+
+We don't want to repeat that content, _go read the original!_  
+
 ## Free hosts
 - **GitHub** : (web: [github.com](https://github.com))
 - **GitLab** : (web: [gitlab.com](https://gitlab.com))
