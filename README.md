@@ -31,6 +31,7 @@ We don't want to repeat that content, _go read the original!_
 - **Surreal CMS** : (web: [surrealcms.com](http://www.surrealcms.com/)) - Hosted CMS for static sites over FTP or Amazon S3.
 
 ## Articles
+- [Jekyll Deployment methods](https://jekyllrb.com/docs/deployment-methods/)
 - [Deploy Jekyll sites to S3 using Travis CI](http://cloudcannon.com/tutorial/2016/01/21/deploy-jekyll-sites-to-s3-using-travis-ci/)
 - [Deploy Jekyll sites anywhere using jekyll-hook](http://cloudcannon.com/tutorial/2016/01/26/deploy-jekyll-sites-anywhere-with-jekyll-hook/)
 - [Hosting on GitLab.com with GitLab Pages](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)
