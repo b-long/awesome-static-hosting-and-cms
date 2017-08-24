@@ -26,7 +26,7 @@ We don't want to repeat that content, _go read the original!_
 - **Forestry** (web: [forestry.io](https://forestry.io)) - A CMS for Jekyll and Hugo sites. Host anywhere (GitHub Pages, Amazon S3, FTP, etc) and access your static CMS from `site.com/admin/`.
 - **Jekyll Admin** (web: [jekyll.github.io/jekyll-admin](https://jekyll.github.io/jekyll-admin/)) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.  Developed on GitHub: https://github.com/jekyll/jekyll-admin
 - **Netlify** : (web: [netlify.com](https://www.netlify.com/)) - An open source, and commercially supported, CMS for Static Site Generators.  Developed on GitHub: https://github.com/netlify/netlify-cms
-- **Prose** : (web: [prose.io](http://prose.io/)) - An open source CMhttps://github.com/getgrav/gravS for GitHub pages.  Developed on GitHub: https://github.com/prose/prose
+- **Prose** : (web: [prose.io](http://prose.io/)) - An open source CMS for GitHub pages.  Developed on GitHub: https://github.com/prose/prose
 - **Siteleaf** : (web: [siteleaf.com](http://www.siteleaf.com/)) - Online editor content manager that allows you to publish anywhere, including Github Pages, and it has Jekyll support.
 - **Surreal CMS** : (web: [surrealcms.com](http://www.surrealcms.com/)) - Hosted CMS for static sites over FTP or Amazon S3.
 - **Grav** : (web: [getgrav.org](https://getgrav.org/) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS.
