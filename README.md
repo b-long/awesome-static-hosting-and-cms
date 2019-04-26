@@ -39,3 +39,4 @@ We don't want to repeat that content, _go read the original!_
 - **BowTie** (web: [bowtie.io](https://bowtie.io)) by Chad Person, James Kassemi, Scott Maloney et al.
 - **Divshot** : (web: [divshot.com](https://divshot.com/))
 - **S3** : (web: [aws.amazon.com/s3](http://aws.amazon.com/s3/))
+- **Preserve** : (web: [https://preserve.bitpaste.app](https://preserve.bitpaste.app)  Deploy HTML pages, static files and entire websites to the Bitcoin blockchain. Immutably preserved for eternity.
