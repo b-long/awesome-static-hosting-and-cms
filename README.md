@@ -17,6 +17,7 @@ We don't want to repeat that content, _go read the original!_
 - **Jekyll Admin** (web: [jekyll.github.io/jekyll-admin](https://jekyll.github.io/jekyll-admin/)) - A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.  Developed on GitHub: https://github.com/jekyll/jekyll-admin
 - **Netlify** : (web: [netlifycms.org](https://www.netlifycms.org/)) - An open source, and commercially supported, CMS for Static Site Generators.  Developed on GitHub: https://github.com/netlify/netlify-cms
 - **Prose** : (web: [prose.io](http://prose.io/)) - An open source CMS for GitHub pages.  Developed on GitHub: https://github.com/prose/prose
+- **Sanity.io** : (web: [sanity.io](https://www.sanity.io/)) - Sanity is an API for structured content with a React.js editing environment
 - **Siteleaf** : (web: [siteleaf.com](http://www.siteleaf.com/)) - Online editor content manager that allows you to publish anywhere, including Github Pages, and it has Jekyll support.
 - **Surreal CMS** : (web: [surrealcms.com](http://www.surrealcms.com/)) - Hosted CMS for static sites over FTP or Amazon S3.
 
