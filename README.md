@@ -24,6 +24,7 @@ We don't want to repeat that content, _go read the original!_
 - **Surreal CMS** : (web: [surrealcms.com](http://www.surrealcms.com/)) - Hosted CMS for static sites over FTP or Amazon S3.
 
 ## Useful Articles
+- [Modern Jamstack Hosting and Deployment Solutions](https://bejamas.io/blog/jamstack-hosting-deployment/) by [Bejamas](https://github.com/bejamas); November 2019
 - [Building a fast, secured and free static site in less than three hours](https://fillmem.com/post/self-hosted-fast-secured-and-free-static-site/) by [Guillaume Sempe](https://github.com/gsempe); August 2017
 - [Deploy Jekyll sites to S3 using Travis CI](https://cloudcannon.com/tutorial/2016/01/21/deploy-jekyll-sites-to-s3-using-travis-ci/) by [Mike Neumegen](https://github.com/mneumegen); January 2016
 - [Deploy Jekyll sites anywhere using jekyll-hook](https://cloudcannon.com/tutorial/2016/01/26/deploy-jekyll-sites-anywhere-with-jekyll-hook/) by [Mike Neumegen](https://github.com/mneumegen); January 2016
