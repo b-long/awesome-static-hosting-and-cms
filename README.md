@@ -30,6 +30,7 @@ We don't want to repeat that content, _go read the original!_
 - [Hosting on GitLab.com with GitLab Pages](https://about.gitlab.com/2016/04/07/gitlab-pages-setup/)
 - [How to automatically deploy static web site to the hosting](http://vrepin.org/vr/JekyllDeploy) by [Vitaly Repin](https://github.com/vitalyrepin/); July 2015
 - [Jekyll Deployment methods](https://jekyllrb.com/docs/deployment-methods/)
+- [Azure Static Web Apps - First look](https://dev.to/azure/static-web-apps-first-look-3b1)
 
 ## Free hosting
 - **GitHub** : (web: [github.com](https://github.com))
@@ -37,6 +38,7 @@ We don't want to repeat that content, _go read the original!_
 - **Neocities** : (web: [neocities.org](https://neocities.org))
 - **Netlify** : (web: [netlify.com](https://www.netlify.com))
 - **DOM Cloud** : (web: [domcloud.id](https://domcloud.id/en/))
+- **Azure Static Web Apps** : (web: [azure.microsoft.com](https://azure.microsoft.com/services/app-service/static/))
 
 ## Commercial hosting
 - **Aerobatic** : (web: [aerobatic.com](http://www.aerobatic.com))
