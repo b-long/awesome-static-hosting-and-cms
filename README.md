@@ -33,6 +33,7 @@ We don't want to repeat that content, _go read the original!_
 - [Azure Static Web Apps - First look](https://dev.to/azure/static-web-apps-first-look-3b1)
 
 ## Free hosting
+- **GOSU Hosting** : (web: [gosu.studio](https://gosu.studio))
 - **GitHub** : (web: [github.com](https://github.com))
 - **GitLab** : (web: [gitlab.com](https://gitlab.com))
 - **Neocities** : (web: [neocities.org](https://neocities.org))
